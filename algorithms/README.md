@@ -10,6 +10,7 @@
 | LeetCode 1929. Concatenation of Array | leetcode/concatenation_of_array.py | O(N) | O(N) | `len(nums)`, а не `len(list)`; `nums * 2` |
 | Бинарный поиск | binary_search.cpp | O(log N) | O(1) доп. | `L = M` зацикливает, нужно `L = M + 1` |
 | LeetCode 217. Contains Duplicate | leetcode/Contains_Duplicate.py | O(N) | O(N) | использовать хеш |
+| LeetCode 242. Valid Anagram | leetcode/Valid_Anagram.py | O(N) or O(Nlog(N))| O(N) or O(1)| | 
 
 ## В работе
 
