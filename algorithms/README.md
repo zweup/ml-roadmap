@@ -12,6 +12,7 @@
 | LeetCode 217. Contains Duplicate | leetcode/Contains_Duplicate.py | O(N) | O(N) | использовать хеш |
 | LeetCode 242. Valid Anagram | leetcode/Valid_Anagram.py | O(N) or O(Nlog(N))| O(N) or O(1)| |
 | LeetCode 169. Majority Element | leetcode/Majority_Element | O(N) | O(N)| |
+| Алгоритм Ефклида | Algorithm_efklida.hpp | o(n) | o(n) | узчение классов |
 
 ## В работе
 
