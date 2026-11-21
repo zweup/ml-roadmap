@@ -14,8 +14,11 @@
 | `notebooks/` | Jupyter-ноутбуки: numpy, pandas, matplotlib |
 | `projects/` | Законченные проекты с описанием |
 | `ml-learning/` | Конспекты и прогресс курса «Основы ML» (см. [README](ml-learning/README.md)) |
+| `roadmap/` | Роадмап ML 2026: 45 недель, чек-листы и прогресс (см. [README](roadmap/README.md)) |
 
 ## План
+
+Подробный календарь на 42 недели — в [`roadmap/PLAN.md`](roadmap/PLAN.md). Старт 23.11.2026, финиш обязательной части 12.09.2027.
 
 - **Этап 0:** Git, терминал, venv, Jupyter. *В процессе.*
 - **Этап 1:** алгоритмы (сложность, массивы, сортировки, бинарный поиск, рекурсия, деревья), numpy, pandas, matplotlib, SQL.
@@ -28,6 +31,8 @@
 
 - Решено задач: 7 записей, список в [`algorithms/README.md`](algorithms/README.md)
 - Проектов: 0
+- Роадмап: неделя 1 из 42 (старт 23.11.2026), прогресс в [`roadmap/README.md`](roadmap/README.md)
+- Мок-собесов: 0 из 7
 - Сейчас изучаю: [основы ML](ml-learning/README.md) (алгоритмы — параллельно)
 
 ## Контакты

@@ -1,0 +1,4753 @@
+{
+  "weeks": [
+    {
+      "w": 1,
+      "phase": "Foundation",
+      "title": "Старт: математика, Python и GitHub",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 2,
+      "phase": "Foundation",
+      "title": "Математика, Python и GitHub Base",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 3,
+      "phase": "Foundation",
+      "title": "Математика, Python и Linux",
+      "kind": "required",
+      "h": 17,
+      "mock": null
+    },
+    {
+      "w": 4,
+      "phase": "Foundation",
+      "title": "Завершение Python Base и foundation",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 5,
+      "phase": "Foundation",
+      "title": "Python Algorithms: сложность и типовые подходы",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 6,
+      "phase": "Foundation",
+      "title": "Подготовка к мок-собесу: Python",
+      "kind": "required",
+      "h": 10,
+      "mock": "W06: Мок-собес Python"
+    },
+    {
+      "w": 7,
+      "phase": "Classic ML",
+      "title": "Classic ML: постановка задачи, losses и метрики",
+      "kind": "required",
+      "h": 18,
+      "mock": null
+    },
+    {
+      "w": 8,
+      "phase": "Classic ML",
+      "title": "Classic ML: валидация, табличный pipeline и деревья",
+      "kind": "required",
+      "h": 24,
+      "mock": null
+    },
+    {
+      "w": 9,
+      "phase": "Classic ML",
+      "title": "Classic ML: ансамбли и кластеризация",
+      "kind": "required",
+      "h": 24,
+      "mock": null
+    },
+    {
+      "w": 10,
+      "phase": "Classic ML",
+      "title": "Classic ML: финальный блок",
+      "kind": "required",
+      "h": 7,
+      "mock": null
+    },
+    {
+      "w": 11,
+      "phase": "Classic ML",
+      "title": "Подготовка к мок-собесу: Classic ML",
+      "kind": "required",
+      "h": 10,
+      "mock": "W11: Мок-собес Classic ML"
+    },
+    {
+      "w": 12,
+      "phase": "Deep Learning",
+      "title": "Deep Learning: оптимизаторы",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 13,
+      "phase": "Deep Learning",
+      "title": "DL, Python Advanced и GitHub",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 14,
+      "phase": "Deep Learning",
+      "title": "Deep Learning: attention, transformers и генеративные модели",
+      "kind": "required",
+      "h": 18,
+      "mock": null
+    },
+    {
+      "w": 15,
+      "phase": "Deep Learning",
+      "title": "Подготовка к мок-собесу: Deep Learning",
+      "kind": "required",
+      "h": 10,
+      "mock": "W15: Мок-собес Deep Learning"
+    },
+    {
+      "w": 16,
+      "phase": "Python Advanced",
+      "title": "Python Advanced: память и конкурентность",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 17,
+      "phase": "Python Advanced",
+      "title": "Python Advanced: ООП, типизация и профилирование",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 18,
+      "phase": "NLP",
+      "title": "NLP Base: классические подходы",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 19,
+      "phase": "NLP",
+      "title": "NLP Base: эмбеддинги и нейросетевые подходы",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 20,
+      "phase": "NLP",
+      "title": "NLP Base: языковые модели и токенизация",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 21,
+      "phase": "NLP + Tools",
+      "title": "NLP Base: BERT/GPT, GitHub Workflow и Docker",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 22,
+      "phase": "NLP + Tools",
+      "title": "Инструменты: Docker и GitHub Advanced",
+      "kind": "required",
+      "h": 24,
+      "mock": null
+    },
+    {
+      "w": 23,
+      "phase": "NLP Advanced",
+      "title": "NLP Advanced и обзор LLM",
+      "kind": "required",
+      "h": 24,
+      "mock": null
+    },
+    {
+      "w": 24,
+      "phase": "NLP Projects",
+      "title": "NLP Optimization I",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 25,
+      "phase": "NLP Projects",
+      "title": "NLP Optimization II",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 26,
+      "phase": "NLP Projects",
+      "title": "NLP Optimization III",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 27,
+      "phase": "NLP Projects",
+      "title": "Подготовка к мок-собесу: NLP Base / Advanced / Optimization",
+      "kind": "required",
+      "h": 10,
+      "mock": "W27: Мок-собес NLP Base / Advanced / Optimization"
+    },
+    {
+      "w": 28,
+      "phase": "NLP Projects",
+      "title": "RAG",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 29,
+      "phase": "NLP Projects",
+      "title": "Подготовка к мок-собесу: RAG",
+      "kind": "required",
+      "h": 10,
+      "mock": "W29: Мок-собес RAG"
+    },
+    {
+      "w": 30,
+      "phase": "NLP Projects",
+      "title": "Резюме и легенда",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 31,
+      "phase": "NLP Projects",
+      "title": "MLSD по проектам из резюме",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 32,
+      "phase": "NLP Projects",
+      "title": "Подготовка к мок-собесу: резюме, легенда и MLSD",
+      "kind": "required",
+      "h": 10,
+      "mock": "W32: Мок-собес резюме / легенда / MLSD"
+    },
+    {
+      "w": 33,
+      "phase": "NLP Projects",
+      "title": "Agents I",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 34,
+      "phase": "NLP Projects",
+      "title": "Agents II: память, промптинг и фреймворки",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 35,
+      "phase": "NLP Projects",
+      "title": "Подготовка к мок-собесу: Agents",
+      "kind": "required",
+      "h": 10,
+      "mock": "W35: Мок-собес Agents"
+    },
+    {
+      "w": 36,
+      "phase": "Job Search",
+      "title": "Выход на рынок: профили, площадки и подготовка к собеседованиям",
+      "kind": "required",
+      "h": 20,
+      "mock": null
+    },
+    {
+      "w": 37,
+      "phase": "Additional",
+      "title": "Дополнительно: Recommender Systems",
+      "kind": "additional",
+      "h": 18,
+      "mock": null
+    },
+    {
+      "w": 38,
+      "phase": "Additional",
+      "title": "Дополнительно: Time Series",
+      "kind": "additional",
+      "h": 12,
+      "mock": null
+    },
+    {
+      "w": 39,
+      "phase": "Additional MLOps",
+      "title": "Дополнительно: MLOps Common (Kubernetes и Kafka)",
+      "kind": "additional",
+      "h": 16,
+      "mock": null
+    },
+    {
+      "w": 40,
+      "phase": "Additional MLOps",
+      "title": "Дополнительно: MLOps Infra и DB",
+      "kind": "additional",
+      "h": 16,
+      "mock": null
+    },
+    {
+      "w": 41,
+      "phase": "Additional MLOps",
+      "title": "Дополнительно: MLOps Tracking",
+      "kind": "additional",
+      "h": 14,
+      "mock": null
+    },
+    {
+      "w": 42,
+      "phase": "Additional MLOps",
+      "title": "Дополнительно: MLOps Monitoring",
+      "kind": "additional",
+      "h": 12,
+      "mock": null
+    },
+    {
+      "w": 43,
+      "phase": "Additional CV",
+      "title": "Дополнительно: Classic CV",
+      "kind": "additional",
+      "h": 16,
+      "mock": null
+    },
+    {
+      "w": 44,
+      "phase": "Additional CV",
+      "title": "Дополнительно: CV на Deep Learning — задачи и метрики",
+      "kind": "additional",
+      "h": 18,
+      "mock": null
+    },
+    {
+      "w": 45,
+      "phase": "Additional CV",
+      "title": "Дополнительно: CV на Deep Learning — генерация, мультимодальность и архитектуры",
+      "kind": "additional",
+      "h": 18,
+      "mock": null
+    }
+  ],
+  "tracks": {
+    "math": {
+      "page": "math.html",
+      "title": "Математика для машинного обучения",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Пререквизиты",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "Запись суммирования и произведения"
+            },
+            {
+              "t": "Символ принадлежности"
+            },
+            {
+              "t": "Обозначение векторов"
+            },
+            {
+              "t": "Сильно меньше/больше",
+              "b": "additional"
+            },
+            {
+              "t": "Символ объединения и пересечения множеств"
+            },
+            {
+              "t": "Кванторы",
+              "b": "additional"
+            },
+            {
+              "t": "Индикаторная функция",
+              "b": "required later"
+            },
+            {
+              "t": "Доминирование",
+              "b": "additional"
+            },
+            {
+              "t": "argmin и argmax",
+              "b": "additional"
+            },
+            {
+              "t": "Обозначения математического ожидания и дисперсии"
+            },
+            {
+              "t": "Абсолютное значение и норма вектора"
+            },
+            {
+              "t": "Приближённое равенство и пропорциональность"
+            },
+            {
+              "t": "Обозначение интервалов"
+            },
+            {
+              "t": "Разность множеств"
+            },
+            {
+              "t": "Обозначение функций"
+            },
+            {
+              "t": "Логарифм: обозначения"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Алгебра",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "Числа"
+            },
+            {
+              "t": "Операции над числами"
+            },
+            {
+              "t": "Векторы"
+            },
+            {
+              "t": "Скалярное произведение"
+            },
+            {
+              "t": "Матрицы"
+            },
+            {
+              "t": "Тензоры"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Алгебра",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "Векторные пространства"
+            },
+            {
+              "t": "Линейная комбинация"
+            },
+            {
+              "t": "Базис и размерность"
+            },
+            {
+              "t": "Подпространства"
+            },
+            {
+              "t": "Линейная зависимость и независимость"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Алгебра",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "Элементарные преобразования над матрицами",
+              "b": "additional"
+            },
+            {
+              "t": "Ранг матрицы"
+            },
+            {
+              "t": "Виды матриц",
+              "b": "required later"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Алгебра",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "Определитель матрицы",
+              "b": "required later"
+            },
+            {
+              "t": "Собственные числа, собственные векторы"
+            },
+            {
+              "t": "SVD. Сингулярное Разложение Матрицы",
+              "b": "required later"
+            },
+            {
+              "t": "Truncated SVD",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": "Математический анализ",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "Множества и принадлежность"
+            },
+            {
+              "t": "Операции над множествами"
+            },
+            {
+              "t": "Функция одной переменной"
+            },
+            {
+              "t": "Функции нескольких переменных"
+            },
+            {
+              "t": "Композиция"
+            },
+            {
+              "t": "Числовые последовательности и предел"
+            },
+            {
+              "t": "Непрерывность и сходимость"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "s": "Математический анализ",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "Производные функций одной переменной"
+            },
+            {
+              "t": "Производные функций нескольких переменных (Частные производные)"
+            },
+            {
+              "t": "Аппроксимация функции",
+              "b": "required later"
+            },
+            {
+              "t": "Гладкость функции",
+              "b": "required later"
+            },
+            {
+              "t": "Экстремум функции"
+            },
+            {
+              "t": "Градиент"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "s": "Математический анализ",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "Метрика (расстояние)"
+            },
+            {
+              "t": "Норма"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "s": "Теорвер и матстат",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "Типы случайных величин"
+            },
+            {
+              "t": "Функция вероятности"
+            },
+            {
+              "t": "Плотность распределения"
+            },
+            {
+              "t": "Сравнение дискретных и непрерывных случайных величин"
+            },
+            {
+              "t": "Нормальное (гауссовское) распределение"
+            },
+            {
+              "t": "Экспоненциальное распределение"
+            },
+            {
+              "t": "Распределение Бернулли"
+            },
+            {
+              "t": "Распределение Пуассона"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "s": "Теорвер и матстат",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "Математическое ожидание"
+            },
+            {
+              "t": "Дисперсия"
+            },
+            {
+              "t": "Среднеквадратическое отклонение"
+            },
+            {
+              "t": "Совместная вероятность"
+            },
+            {
+              "t": "Условная вероятность"
+            },
+            {
+              "t": "Теорема Байеса"
+            },
+            {
+              "t": "Генеральная совокупность"
+            },
+            {
+              "t": "Выборка"
+            },
+            {
+              "t": "Выборочное среднее"
+            },
+            {
+              "t": "Выборочная дисперсия"
+            },
+            {
+              "t": "Мода"
+            },
+            {
+              "t": "Медиана"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "s": "Теорвер и матстат",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "Bootstrap"
+            },
+            {
+              "t": "Статистические гипотезы",
+              "b": "required later"
+            },
+            {
+              "t": "Доверительные интервалы",
+              "b": "required later"
+            },
+            {
+              "t": "Ошибки первого и второго рода"
+            },
+            {
+              "t": "Параметрические и непараметрические критерии",
+              "b": "required later"
+            },
+            {
+              "t": "t-test",
+              "b": "additional"
+            },
+            {
+              "t": "A/B-тест"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "s": "Теорвер и матстат",
+          "name": null,
+          "w": [
+            4
+          ],
+          "items": [
+            {
+              "t": "Квантили"
+            },
+            {
+              "t": "Квартили"
+            },
+            {
+              "t": "Перцентили"
+            },
+            {
+              "t": "Box-plot (ящик с усами)"
+            },
+            {
+              "t": "Гомоскедастичность и гетероскедастичность",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "s": "Теорвер и матстат",
+          "name": null,
+          "w": [
+            4
+          ],
+          "items": [
+            {
+              "t": "Многомерное нормальное распределение",
+              "b": "additional"
+            },
+            {
+              "t": "Ковариация"
+            },
+            {
+              "t": "Ковариационные матрицы"
+            },
+            {
+              "t": "Корреляция"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "s": "Теорвер и матстат",
+          "name": null,
+          "w": [
+            4
+          ],
+          "items": [
+            {
+              "t": "Центральная предельная теорема (ЦПТ)"
+            },
+            {
+              "t": "Закон больших чисел"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "s": "Численные методы",
+          "name": null,
+          "w": [
+            4
+          ],
+          "items": [
+            {
+              "t": "Постановка задачи оптимизации"
+            },
+            {
+              "t": "Градиентный спуск"
+            },
+            {
+              "t": "Проблемы градиентного спуска"
+            },
+            {
+              "t": "Принцип максимума правдоподобия",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "s": "Теоретическая информатика",
+          "name": null,
+          "w": [
+            4
+          ],
+          "items": [
+            {
+              "t": "Энтропия"
+            },
+            {
+              "t": "Перекрестная энтропия"
+            }
+          ]
+        }
+      ]
+    },
+    "python": {
+      "page": "python.html",
+      "title": "Python",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "Что такое программирование?"
+            },
+            {
+              "t": "Версии Python: какую использовать?"
+            },
+            {
+              "t": "Jupyter Notebook: что это и как использовать?"
+            },
+            {
+              "t": "Что такое IDE?"
+            },
+            {
+              "t": "Типы данных. Изменяемые и неизменяемые типы"
+            },
+            {
+              "t": "Подробнее про типы данных"
+            },
+            {
+              "t": "Операции"
+            },
+            {
+              "t": "Сокращение операций"
+            },
+            {
+              "t": "Современные виды строк в Python: f-строки и другие"
+            },
+            {
+              "t": "Спецсимволы в строках: \\n, \\t, и параметры print()"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "and, or, not: логические операторы"
+            },
+            {
+              "t": "==, !=, is: сравнение значений и идентичности"
+            },
+            {
+              "t": "Идентификатор объекта: id()"
+            },
+            {
+              "t": "None: почему проверять через is"
+            },
+            {
+              "t": "Жизнь объекта: создание, ссылки, удаление"
+            },
+            {
+              "t": "Условные операторы"
+            },
+            {
+              "t": "Walrus operator :=",
+              "b": "additional"
+            },
+            {
+              "t": "Циклы for, while"
+            },
+            {
+              "t": "list/dict comprehensions — генераторы списков и словарей"
+            },
+            {
+              "t": "zip"
+            },
+            {
+              "t": "enumerate"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "Функции: def, *args, **kwargs, lambda"
+            },
+            {
+              "t": "import — что это такое?"
+            },
+            {
+              "t": "Абсолютные и относительные импорты"
+            },
+            {
+              "t": "import ... as ...: псевдонимы"
+            },
+            {
+              "t": "Локальные и глобальные переменные: область видимости, global, nonlocal"
+            },
+            {
+              "t": "Итераторы и генераторы. Отличия"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "Контекстный менеджер with. Запись и чтение файлов"
+            },
+            {
+              "t": "Модуль os: работа с ОС и файловой системой",
+              "b": "additional"
+            },
+            {
+              "t": "Библиотека os.path",
+              "b": "additional"
+            },
+            {
+              "t": "pathlib — удобный модуль для работы с файловой системой",
+              "b": "additional"
+            },
+            {
+              "t": "Декораторы: что это, зачем нужны, примеры использования"
+            },
+            {
+              "t": "Вложенные декораторы (декораторы с аргументами)",
+              "b": "required later"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "Исключения: try, except, else, finally"
+            },
+            {
+              "t": "Встроенные исключения",
+              "b": "required later"
+            },
+            {
+              "t": "Оператор raise"
+            },
+            {
+              "t": "ООП: классы, методы, self, dunder-методы"
+            },
+            {
+              "t": "Операторы pass и ..."
+            },
+            {
+              "t": "Наследование, инкапсуляция, полиморфизм"
+            },
+            {
+              "t": "В Python всё — объект"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "Декораторы @classmethod, @staticmethod, @property"
+            },
+            {
+              "t": "Альтернативные конструкторы (@classmethod)",
+              "b": "required later"
+            },
+            {
+              "t": "typing, __future__, аннотации"
+            },
+            {
+              "t": "Что такое PEP8",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "filter и reduce над итерируемым объектом"
+            },
+            {
+              "t": "Регулярные выражения"
+            },
+            {
+              "t": "@property, аксессоры и мутаторы",
+              "b": "additional"
+            },
+            {
+              "t": "Модуль collections: Counter",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "s": "Python Base",
+          "name": null,
+          "w": [
+            4
+          ],
+          "items": [
+            {
+              "t": "numpy: базовая библиотека для чисел и массивов"
+            },
+            {
+              "t": "pandas: анализ и работа с таблицами"
+            },
+            {
+              "t": "matplotlib: визуализация данных"
+            },
+            {
+              "t": "argparse: разбор аргументов командной строки"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "s": "Python Advanced",
+          "name": null,
+          "w": [
+            13
+          ],
+          "items": [
+            {
+              "t": "Про пакеты и модули"
+            },
+            {
+              "t": "Алгоритмическая сложность"
+            },
+            {
+              "t": "Логгирование (модуль logging)"
+            },
+            {
+              "t": "Передача аргументов в функции",
+              "b": "required later"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "s": "Python Advanced",
+          "name": null,
+          "w": [
+            16
+          ],
+          "items": [
+            {
+              "t": "Конструкторы и деструкторы",
+              "b": "required later"
+            },
+            {
+              "t": "Сборщик мусора",
+              "b": "required later"
+            },
+            {
+              "t": "Копирование изменяемых объектов: copy и deepcopy"
+            },
+            {
+              "t": "weakref: слабые ссылки",
+              "b": "additional"
+            },
+            {
+              "t": "__pycache__"
+            },
+            {
+              "t": "__slots__",
+              "b": "additional"
+            },
+            {
+              "t": "Разница массивов numpy и list"
+            },
+            {
+              "t": "numba",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "s": "Python Advanced",
+          "name": null,
+          "w": [
+            16
+          ],
+          "items": [
+            {
+              "t": "GIL (Global Interpreter Lock)"
+            },
+            {
+              "t": "Многопоточность (threading)",
+              "b": "required later"
+            },
+            {
+              "t": "Многопроцессность (multiprocessing, uvicorn workers)",
+              "b": "required later"
+            },
+            {
+              "t": "Асинхронные функции (async def / await)",
+              "b": "required later"
+            },
+            {
+              "t": "Сравнение подходов к конкурентности",
+              "b": "required later"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "s": "Python Advanced",
+          "name": null,
+          "w": [
+            17
+          ],
+          "items": [
+            {
+              "t": "Абстрактные классы (abc)"
+            },
+            {
+              "t": "isinstance"
+            },
+            {
+              "t": "@dataclass"
+            },
+            {
+              "t": "Pydantic BaseModel"
+            },
+            {
+              "t": "Декораторы классов",
+              "b": "additional"
+            },
+            {
+              "t": "Сравнение: __slots__ и @dataclass(frozen=True)",
+              "b": "additional"
+            },
+            {
+              "t": "NamedTuple",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "s": "Python Advanced",
+          "name": null,
+          "w": [
+            17
+          ],
+          "items": [
+            {
+              "t": "Профилирование"
+            },
+            {
+              "t": "Анализ Flame Graph"
+            },
+            {
+              "t": "Линтеры (например, ruff)",
+              "b": "additional"
+            },
+            {
+              "t": "Виртуальные окружения (.venv, conda, uv)"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "s": "Python Advanced",
+          "name": null,
+          "w": [
+            17
+          ],
+          "items": [
+            {
+              "t": "JSON"
+            },
+            {
+              "t": "YAML"
+            },
+            {
+              "t": "TOML"
+            },
+            {
+              "t": "pyproject.toml для uv",
+              "b": "additional"
+            },
+            {
+              "t": "ruff.toml для ruff"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "s": "Python Algorithms",
+          "name": null,
+          "w": [
+            5
+          ],
+          "items": [
+            {
+              "t": "FLOPS: терминология"
+            },
+            {
+              "t": "Алгоритмическая сложность и сложность по памяти"
+            },
+            {
+              "t": "Основные алгоритмические подходы"
+            },
+            {
+              "t": "Один проход"
+            },
+            {
+              "t": "Хеш-таблица: dict и set"
+            },
+            {
+              "t": "Сортировка как алгоритмический подход"
+            },
+            {
+              "t": "Два указателя"
+            },
+            {
+              "t": "Скользящее окно"
+            },
+            {
+              "t": "Стек и очередь"
+            },
+            {
+              "t": "DFS и BFS"
+            },
+            {
+              "t": "Динамическое программирование"
+            },
+            {
+              "t": "Типовые задачи LeetCode по алгоритмическим подходам"
+            }
+          ]
+        }
+      ]
+    },
+    "classic_ml": {
+      "page": "classic_ml.html",
+      "title": "Classic ML",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            7
+          ],
+          "items": [
+            {
+              "t": "Задача обучения с учителем"
+            },
+            {
+              "t": "Выборки"
+            },
+            {
+              "t": "Понятие машинного обучения и типы задач"
+            },
+            {
+              "t": "Определение классификации"
+            },
+            {
+              "t": "Определение регрессии"
+            },
+            {
+              "t": "Функция потерь и эмпирический риск"
+            },
+            {
+              "t": "Регрессия"
+            },
+            {
+              "t": "Функции потерь классификации"
+            },
+            {
+              "t": "Функции потерь регрессии"
+            },
+            {
+              "t": "Метрики классификации"
+            },
+            {
+              "t": "Определение метрик бинарной классификации"
+            },
+            {
+              "t": "Метрики многоклассовой классификации"
+            },
+            {
+              "t": "Вероятность классификации"
+            },
+            {
+              "t": "Оптимизация метрик классификации"
+            },
+            {
+              "t": "Метрики регрессии"
+            },
+            {
+              "t": "Квантили абсолютной ошибки"
+            },
+            {
+              "t": "D² score",
+              "b": "additional later"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            8
+          ],
+          "items": [
+            {
+              "t": "Кросс-валидация"
+            },
+            {
+              "t": "Стратификация"
+            },
+            {
+              "t": "k-Fold"
+            },
+            {
+              "t": "Leave-One-Out",
+              "b": "additional"
+            },
+            {
+              "t": "Stratified K-Fold",
+              "b": "additional"
+            },
+            {
+              "t": "Регуляризация"
+            },
+            {
+              "t": "Гиперпараметры"
+            },
+            {
+              "t": "Bias-Variance decomposition"
+            },
+            {
+              "t": "Train/validation/test split"
+            },
+            {
+              "t": "EDA: разведывательный анализ данных"
+            },
+            {
+              "t": "Предобработка табличных данных"
+            },
+            {
+              "t": "Масштабирование признаков"
+            },
+            {
+              "t": "Кодирование категориальных признаков"
+            },
+            {
+              "t": "Imputation: заполнение пропусков"
+            },
+            {
+              "t": "MiceForest",
+              "b": "additional later"
+            },
+            {
+              "t": "SMOTE",
+              "b": "additional later"
+            },
+            {
+              "t": "RFECV",
+              "b": "additional later"
+            },
+            {
+              "t": "Bayesian optimization",
+              "b": "additional later"
+            },
+            {
+              "t": "Пайплайн классической ML-модели"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": null,
+          "w": [
+            8
+          ],
+          "items": [
+            {
+              "t": "Логистическая регрессия"
+            },
+            {
+              "t": "Решающие деревья"
+            },
+            {
+              "t": "Критерии ветвления"
+            },
+            {
+              "t": "Деревья для регрессии"
+            },
+            {
+              "t": "Плюсы и минусы решающих деревьев"
+            },
+            {
+              "t": "Как можно регуляризировать решающее дерево?"
+            },
+            {
+              "t": "Ансамбли: Bagging"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": null,
+          "name": null,
+          "w": [
+            9
+          ],
+          "items": [
+            {
+              "t": "Random Forest (случайный лес)"
+            },
+            {
+              "t": "Boosting"
+            },
+            {
+              "t": "Gradient Boosting (градиентный бустинг)"
+            },
+            {
+              "t": "XGBoost, CatBoost, LightGBM"
+            },
+            {
+              "t": "Stacking, blending",
+              "b": "additional"
+            },
+            {
+              "t": "HistGradientBoosting",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": null,
+          "name": null,
+          "w": [
+            9
+          ],
+          "items": [
+            {
+              "t": "Кластеризация"
+            },
+            {
+              "t": "Метрики кластеризации"
+            },
+            {
+              "t": "KMeans"
+            },
+            {
+              "t": "KMedoids",
+              "b": "additional"
+            },
+            {
+              "t": "KMeans++"
+            },
+            {
+              "t": "DBSCAN"
+            },
+            {
+              "t": "Иерархическая",
+              "b": "additional"
+            },
+            {
+              "t": "Спектральная",
+              "b": "additional"
+            },
+            {
+              "t": "Алгоритм классификации: KNN (k-ближайших соседей)"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": null,
+          "name": null,
+          "w": [
+            10
+          ],
+          "items": [
+            {
+              "t": "Наивный байесовский классификатор",
+              "b": "additional"
+            },
+            {
+              "t": "SVM (метод опорных векторов)",
+              "b": "additional"
+            },
+            {
+              "t": "PCA"
+            },
+            {
+              "t": "MDS",
+              "b": "additional"
+            },
+            {
+              "t": "SNE",
+              "b": "additional"
+            },
+            {
+              "t": "t-SNE",
+              "b": "required later"
+            },
+            {
+              "t": "UMAP",
+              "b": "required later"
+            }
+          ]
+        }
+      ]
+    },
+    "dl": {
+      "page": "dl.html",
+      "title": "Deep Learning",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            12
+          ],
+          "items": [
+            {
+              "t": "Модель нейрона МакКаллока-Питтса"
+            },
+            {
+              "t": "Строение многослойного перцептрона"
+            },
+            {
+              "t": "Функции активации"
+            },
+            {
+              "t": "Прямой и обратный проход"
+            },
+            {
+              "t": "Как обучить нейронную сеть?"
+            },
+            {
+              "t": "Оптимизаторы в глубоком обучении"
+            },
+            {
+              "t": "Экспоненциальное скользящее среднее"
+            },
+            {
+              "t": "Stochastic Gradient Descent (SGD)"
+            },
+            {
+              "t": "Momentum"
+            },
+            {
+              "t": "Nesterov Accelerated Momentum (NAG)"
+            },
+            {
+              "t": "AdaGrad"
+            },
+            {
+              "t": "RMSProp"
+            },
+            {
+              "t": "Adam"
+            },
+            {
+              "t": "AdamW"
+            },
+            {
+              "t": "Nadam"
+            },
+            {
+              "t": "Сравнение оптимизаторов"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            13
+          ],
+          "items": [
+            {
+              "t": "Переобучение и недообучение"
+            },
+            {
+              "t": "Методы борьбы с недообучением"
+            },
+            {
+              "t": "Методы борьбы с переобучением"
+            },
+            {
+              "t": "Label Smoothing",
+              "b": "later"
+            },
+            {
+              "t": "Инициализация весов модели",
+              "b": "later"
+            },
+            {
+              "t": "Предобучение, дообучение и Fine-tuning"
+            },
+            {
+              "t": "Warm-up и Schedulers",
+              "b": "later"
+            },
+            {
+              "t": "Гиперпараметры"
+            },
+            {
+              "t": "Data Drift"
+            },
+            {
+              "t": "Concept Drift"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": null,
+          "w": [
+            13
+          ],
+          "items": [
+            {
+              "t": "Batch Normalization"
+            },
+            {
+              "t": "DropOut"
+            },
+            {
+              "t": "Мультиколлинеарность"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": null,
+          "name": null,
+          "w": [
+            13
+          ],
+          "items": [
+            {
+              "t": "Свертка"
+            },
+            {
+              "t": "Pooling"
+            },
+            {
+              "t": "Взрыв и затухание градиентов"
+            },
+            {
+              "t": "Остаточные связи"
+            },
+            {
+              "t": "Аугментация данных"
+            },
+            {
+              "t": "RNN: Vanilla, LSTM и GRU"
+            },
+            {
+              "t": "Обучение на CPU и GPU: в чём разница"
+            },
+            {
+              "t": "Обучение нейросети на одной GPU: полный цикл"
+            },
+            {
+              "t": "Обучение на нескольких GPU: DataParallel, DDP и torchrun"
+            },
+            {
+              "t": "Виды параллелизма при обучении: data, tensor, pipeline, FSDP"
+            },
+            {
+              "t": "Экономия видеопамяти при обучении: AMP, checkpointing, accumulation"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": null,
+          "name": null,
+          "w": [
+            14
+          ],
+          "items": [
+            {
+              "t": "Эмбеддинги (Embeddings)"
+            },
+            {
+              "t": "Механизм внимания (Attention)"
+            },
+            {
+              "t": "Multi-Head Attention"
+            },
+            {
+              "t": "Self-Attention"
+            },
+            {
+              "t": "Cross-Attention"
+            },
+            {
+              "t": "Causal attention"
+            },
+            {
+              "t": "Masked attention"
+            },
+            {
+              "t": "Виды внимания"
+            },
+            {
+              "t": "Ограничения по сложности внимания"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": null,
+          "name": null,
+          "w": [
+            14
+          ],
+          "items": [
+            {
+              "t": "Трансформеры: архитектура и устройство"
+            },
+            {
+              "t": "Позиционное кодирование"
+            },
+            {
+              "t": "Encoder-Only модели"
+            },
+            {
+              "t": "Decoder-Only модели"
+            },
+            {
+              "t": "Layer Normalization: Pre-Norm vs Post-Norm"
+            },
+            {
+              "t": "Увеличение контекста в Transformer",
+              "b": "later"
+            }
+          ]
+        }
+      ]
+    },
+    "models-dl": {
+      "page": "models-dl.html",
+      "title": "Архитектуры DL",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            14
+          ],
+          "items": [
+            {
+              "t": "Autoencoder (2006)",
+              "b": "required research"
+            },
+            {
+              "t": "Denoising Autoencoder (2008)",
+              "b": "required research"
+            },
+            {
+              "t": "Сужающий автоэнкодер",
+              "b": "required research"
+            },
+            {
+              "t": "Расширяющий автоэнкодер",
+              "b": "required research"
+            },
+            {
+              "t": "VAE (2013)",
+              "b": "required research"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            14
+          ],
+          "items": [
+            {
+              "t": "GAN (2014)",
+              "b": "required research"
+            }
+          ]
+        }
+      ]
+    },
+    "nlp-base": {
+      "page": "nlp-base.html",
+      "title": "NLP Base",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Классические подходы",
+          "name": null,
+          "w": [
+            18
+          ],
+          "items": [
+            {
+              "t": "Задачи NLP"
+            },
+            {
+              "t": "Предобработка текста"
+            },
+            {
+              "t": "One-hot представление"
+            },
+            {
+              "t": "Bag of Words"
+            },
+            {
+              "t": "Дистрибутивная семантика"
+            },
+            {
+              "t": "Count-based методы"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Классические подходы",
+          "name": null,
+          "w": [
+            18
+          ],
+          "items": [
+            {
+              "t": "Подсчет совместной встречаемости"
+            },
+            {
+              "t": "Positive Pointwise Mutual Information (PPMI)"
+            },
+            {
+              "t": "Latent Semantic Analysis (LSA)"
+            },
+            {
+              "t": "TF-IDF"
+            },
+            {
+              "t": "BM25"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Классические подходы",
+          "name": null,
+          "w": [
+            19
+          ],
+          "items": [
+            {
+              "t": "Word2Vec"
+            },
+            {
+              "t": "Skip-Gram и CBOW"
+            },
+            {
+              "t": "GloVe"
+            },
+            {
+              "t": "FastText"
+            },
+            {
+              "t": "Сравнение классических векторизаторов"
+            },
+            {
+              "t": "Оценка качества эмбеддингов"
+            },
+            {
+              "t": "Анализ и интерпретация"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Нейросетевые подходы",
+          "name": null,
+          "w": [
+            19
+          ],
+          "items": [
+            {
+              "t": "Классификация текстов"
+            },
+            {
+              "t": "Генеративные и дискриминативные модели",
+              "b": "later"
+            },
+            {
+              "t": "Multilabel классификация"
+            },
+            {
+              "t": "Рекуррентные нейросети"
+            },
+            {
+              "t": "Двунаправленные рекуррентные нейросети",
+              "b": "later"
+            },
+            {
+              "t": "ELMo",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Нейросетевые подходы",
+          "name": null,
+          "w": [
+            20
+          ],
+          "items": [
+            {
+              "t": "Языковое моделирование"
+            },
+            {
+              "t": "Вероятность текста и левосторонние LM"
+            },
+            {
+              "t": "N-грамм модели генерации текста"
+            },
+            {
+              "t": "Нейронные языковые модели"
+            },
+            {
+              "t": "Обучение языковых моделей"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": "Нейросетевые подходы",
+          "name": null,
+          "w": [
+            20
+          ],
+          "items": [
+            {
+              "t": "Стратегии генерации текста"
+            },
+            {
+              "t": "Seq2Seq"
+            },
+            {
+              "t": "Byte Pair Encoding"
+            },
+            {
+              "t": "WordPiece"
+            },
+            {
+              "t": "Unigram"
+            },
+            {
+              "t": "SentencePiece"
+            },
+            {
+              "t": "Сравнение методов токенизации"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "s": "Нейросетевые подходы",
+          "name": null,
+          "w": [
+            27
+          ],
+          "items": [
+            {
+              "t": "Архитектура трансформера"
+            },
+            {
+              "t": "Позиционное кодирование"
+            },
+            {
+              "t": "Алгоритмическая сложность внимания"
+            },
+            {
+              "t": "Увеличение контекста LLM"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "s": "Нейросетевые подходы",
+          "name": null,
+          "w": [
+            21
+          ],
+          "items": [
+            {
+              "t": "BERT"
+            },
+            {
+              "t": "BERT-подобные модели"
+            },
+            {
+              "t": "GPT"
+            },
+            {
+              "t": "GPT-подобные модели"
+            },
+            {
+              "t": "Sentence Transformer",
+              "b": "later"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "s": "Нейросетевые подходы",
+          "name": null,
+          "w": [
+            21
+          ],
+          "items": [
+            {
+              "t": "Метрики оценки качества генерации"
+            },
+            {
+              "t": "Этапы обучения LLM"
+            }
+          ]
+        }
+      ]
+    },
+    "nlp-advanced": {
+      "page": "nlp-advanced.html",
+      "title": "NLP Advanced",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "Эволюция схем внимания под давлением KV-кэша",
+              "b": "required research"
+            },
+            {
+              "t": "Multi-Query Attention"
+            },
+            {
+              "t": "Grouped-Query Attention"
+            },
+            {
+              "t": "Multi-head Latent Attention",
+              "b": "additional research later"
+            },
+            {
+              "t": "Grouped-Tied Attention",
+              "b": "additional research later"
+            },
+            {
+              "t": "Grouped Latent Attention",
+              "b": "additional research later"
+            },
+            {
+              "t": "Sliding Window Attention (скользящее окно)",
+              "b": "required research"
+            },
+            {
+              "t": "Обучаемое разреженное внимание: NSA, MoBA, SSA",
+              "b": "additional research later"
+            },
+            {
+              "t": "RoPE: вращающиеся позиционные эмбеддинги",
+              "b": "required research"
+            },
+            {
+              "t": "ALiBi (Attention with Linear Biases)"
+            },
+            {
+              "t": "Pre-Norm и Post-Norm: почему LLM отказались от постнормализации",
+              "b": "required research"
+            },
+            {
+              "t": "RMSNorm",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "MoE: смесь экспертов",
+              "b": "later"
+            },
+            {
+              "t": "Matryoshka Embeddings"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": null,
+          "w": [
+            27
+          ],
+          "items": [
+            {
+              "t": "TRPO (2015)",
+              "b": "additional research later"
+            },
+            {
+              "t": "PPO в RLHF (2017/2022)",
+              "b": "additional research later"
+            },
+            {
+              "t": "DPO (2023)",
+              "b": "additional research later"
+            },
+            {
+              "t": "IPO (2023)",
+              "b": "additional research later"
+            },
+            {
+              "t": "KTO (2024)",
+              "b": "additional research later"
+            },
+            {
+              "t": "GRPO (2024)",
+              "b": "additional research later"
+            }
+          ]
+        }
+      ]
+    },
+    "models-nlp": {
+      "page": "models-nlp.html",
+      "title": "Архитектуры NLP",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            21
+          ],
+          "items": [
+            {
+              "t": "RoBERTa (2019)",
+              "b": "required research"
+            },
+            {
+              "t": "ALBERT (2019)",
+              "b": "required research"
+            },
+            {
+              "t": "DeBERTa (2020–2021)",
+              "b": "required research"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "GPT-Neo (2021)",
+              "b": "research"
+            },
+            {
+              "t": "GPT-J-6B (2021)",
+              "b": "research"
+            },
+            {
+              "t": "Megatron-Turing NLG 530B (2021)",
+              "b": "research"
+            },
+            {
+              "t": "GLaM (2021)",
+              "b": "research"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "Chinchilla и законы масштабирования (2022)",
+              "b": "required research"
+            },
+            {
+              "t": "PaLM (2022)",
+              "b": "research"
+            },
+            {
+              "t": "OPT (2022)",
+              "b": "research"
+            },
+            {
+              "t": "BLOOM (2022)",
+              "b": "research"
+            },
+            {
+              "t": "YaLM 100B (2022)",
+              "b": "research"
+            },
+            {
+              "t": "PaLM 2 (2023)",
+              "b": "research"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "Mistral 7B (2023)",
+              "b": "required research"
+            },
+            {
+              "t": "Mixtral 8x7B (2023)",
+              "b": "required research"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "Llama (Meta): от Llama 1 до Llama 4",
+              "b": "required research"
+            },
+            {
+              "t": "Falcon (2023)",
+              "b": "research"
+            },
+            {
+              "t": "Qwen (Alibaba): Qwen 1 → Qwen 2 → Qwen 3",
+              "b": "required research"
+            },
+            {
+              "t": "Phi (Microsoft): «учебники — это всё, что нужно»",
+              "b": "required research"
+            },
+            {
+              "t": "Gemma (Google)",
+              "b": "research"
+            },
+            {
+              "t": "DeepSeek: V3 и R1",
+              "b": "required research"
+            },
+            {
+              "t": "GLM (Zhipu AI)",
+              "b": "research"
+            },
+            {
+              "t": "Kimi (Moonshot AI)",
+              "b": "research"
+            },
+            {
+              "t": "Pixtral (2024): как LLM учат смотреть",
+              "b": "research"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "Claude (Anthropic) и Constitutional AI",
+              "b": "research"
+            },
+            {
+              "t": "Gemini (Google)",
+              "b": "research"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "s": null,
+          "name": null,
+          "w": [
+            23
+          ],
+          "items": [
+            {
+              "t": "SSM: модели пространства состояний",
+              "b": "required research"
+            },
+            {
+              "t": "Mamba (2023)",
+              "b": "required research"
+            },
+            {
+              "t": "Рекуррентные трансформеры",
+              "b": "research"
+            },
+            {
+              "t": "Диффузионные языковые модели",
+              "b": "research"
+            },
+            {
+              "t": "SubQ (2026): фронтир-модель на субквадратичном внимании",
+              "b": "research"
+            }
+          ]
+        }
+      ]
+    },
+    "nlp-optimization": {
+      "page": "nlp-optimization.html",
+      "title": "NLP Optimization",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Optimization",
+          "name": null,
+          "w": [
+            24
+          ],
+          "items": [
+            {
+              "t": "Оптимизация LLM"
+            },
+            {
+              "t": "RPS, Latency"
+            },
+            {
+              "t": "Дистилляция"
+            },
+            {
+              "t": "Hard-label дистилляция",
+              "b": "additional"
+            },
+            {
+              "t": "Soft-label дистилляция",
+              "b": "additional"
+            },
+            {
+              "t": "Проблемы дистилляции: exposure bias",
+              "b": "required research later"
+            },
+            {
+              "t": "MiniLLM",
+              "b": "additional research later"
+            },
+            {
+              "t": "Трюки для замены PPO",
+              "b": "additional research later"
+            },
+            {
+              "t": "Кросс-токенизаторная дистилляция",
+              "b": "additional research later"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Optimization",
+          "name": null,
+          "w": [
+            25
+          ],
+          "items": [
+            {
+              "t": "Квантизация: определение"
+            },
+            {
+              "t": "Линейная квантизация"
+            },
+            {
+              "t": "Сценарии квантизации"
+            },
+            {
+              "t": "Типы данных"
+            },
+            {
+              "t": "Особенности квантизации"
+            },
+            {
+              "t": "LLM.Int8",
+              "b": "additional research later"
+            },
+            {
+              "t": "SmoothQuant",
+              "b": "additional research later"
+            },
+            {
+              "t": "SpinQuant",
+              "b": "additional research later"
+            },
+            {
+              "t": "GPTQ",
+              "b": "additional research later"
+            },
+            {
+              "t": "GGML",
+              "b": "additional research later"
+            },
+            {
+              "t": "GGUF",
+              "b": "additional research later"
+            },
+            {
+              "t": "AWQ",
+              "b": "additional research later"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Optimization",
+          "name": null,
+          "w": [
+            26
+          ],
+          "items": [
+            {
+              "t": "Speculative Decoding"
+            },
+            {
+              "t": "EAGLE",
+              "b": "additional research later"
+            },
+            {
+              "t": "Multi-Token Prediction: MTP-драфтеры Gemma 4",
+              "b": "additional research later"
+            },
+            {
+              "t": "Dynamic Batching"
+            },
+            {
+              "t": "Continuous Batching"
+            },
+            {
+              "t": "Ragged Tensors",
+              "b": "additional"
+            },
+            {
+              "t": "KV-cache"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Optimization",
+          "name": null,
+          "w": [
+            26
+          ],
+          "items": [
+            {
+              "t": "LoRA"
+            },
+            {
+              "t": "QLoRA"
+            },
+            {
+              "t": "LoRA+",
+              "b": "additional"
+            },
+            {
+              "t": "VeRA",
+              "b": "additional research later"
+            },
+            {
+              "t": "DoRA",
+              "b": "additional research later"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Optimization",
+          "name": null,
+          "w": [
+            26
+          ],
+          "items": [
+            {
+              "t": "Flash Attention",
+              "b": "required later"
+            },
+            {
+              "t": "Paged Attention",
+              "b": "additional"
+            },
+            {
+              "t": "Fused Attention Kernels",
+              "b": "additional"
+            }
+          ]
+        }
+      ]
+    },
+    "nlp-rag": {
+      "page": "nlp-rag.html",
+      "title": "NLP RAG",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "RAG",
+          "name": null,
+          "w": [
+            28
+          ],
+          "items": [
+            {
+              "t": "Определение RAG"
+            },
+            {
+              "t": "Почему именно RAG?"
+            },
+            {
+              "t": "Нарезка на чанки"
+            },
+            {
+              "t": "Загрузка документов"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "RAG",
+          "name": null,
+          "w": [
+            28
+          ],
+          "items": [
+            {
+              "t": "Векторный поиск"
+            },
+            {
+              "t": "Векторные базы данных"
+            },
+            {
+              "t": "Выбор эмбеддеров"
+            },
+            {
+              "t": "Метрики RAG"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "RAG",
+          "name": null,
+          "w": [
+            28
+          ],
+          "items": [
+            {
+              "t": "Разновидности RAG"
+            },
+            {
+              "t": "Гибридный поиск"
+            },
+            {
+              "t": "Reranker"
+            },
+            {
+              "t": "Фреймворки RAG"
+            },
+            {
+              "t": "Production аспекты RAG"
+            }
+          ]
+        }
+      ]
+    },
+    "nlp-agents": {
+      "page": "nlp-agents.html",
+      "title": "NLP Agents",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Agents",
+          "name": null,
+          "w": [
+            33
+          ],
+          "items": [
+            {
+              "t": "Что такое LLM-агенты?"
+            },
+            {
+              "t": "Structured Output (SO)"
+            },
+            {
+              "t": "Tool Calling / Function Calling"
+            },
+            {
+              "t": "ReAct: Reason + Act"
+            },
+            {
+              "t": "ReAct vs Function Calling"
+            },
+            {
+              "t": "Как LLM выбирает инструмент"
+            },
+            {
+              "t": "Сравнение agents и RAG"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Agents",
+          "name": null,
+          "w": [
+            33
+          ],
+          "items": [
+            {
+              "t": "Chain-of-Thoughts"
+            },
+            {
+              "t": "Schema-Guided Reasoning"
+            },
+            {
+              "t": "LlamaIndex: RAG и агенты"
+            },
+            {
+              "t": "LangChain"
+            },
+            {
+              "t": "LangGraph"
+            },
+            {
+              "t": "LangFlow: визуальная сборка LLM-приложений"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Agents",
+          "name": null,
+          "w": [
+            33
+          ],
+          "items": [
+            {
+              "t": "Агентные траектории",
+              "b": "additional"
+            },
+            {
+              "t": "LangSmith: тестирование и observability LLM-приложений"
+            },
+            {
+              "t": "Langfuse: observability и tracing LLM-агентов"
+            },
+            {
+              "t": "Сравнение фреймворков и платформ для LLM-агентов"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Agents",
+          "name": null,
+          "w": [
+            34
+          ],
+          "items": [
+            {
+              "t": "Multiagentic Systems"
+            },
+            {
+              "t": "Примеры Multiagentic Systems",
+              "b": "research"
+            },
+            {
+              "t": "Рой Агентов",
+              "b": "later"
+            },
+            {
+              "t": "Human-in-the-loop"
+            },
+            {
+              "t": "Сильные и слабые стороны агентов"
+            },
+            {
+              "t": "Создание и оптимизация инструментов",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Agents",
+          "name": null,
+          "w": [
+            34
+          ],
+          "items": [
+            {
+              "t": "MCP (Model Context Protocol)"
+            },
+            {
+              "t": "Orchestrator"
+            },
+            {
+              "t": "BrowserUse",
+              "b": "required later"
+            },
+            {
+              "t": "Deep Research"
+            },
+            {
+              "t": "Agent Benchmarks"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": "Agents",
+          "name": null,
+          "w": [
+            34
+          ],
+          "items": [
+            {
+              "t": "Prompt Engineering"
+            },
+            {
+              "t": "Context Engineering"
+            },
+            {
+              "t": "Локальная память"
+            },
+            {
+              "t": "Agent Skills"
+            }
+          ]
+        }
+      ]
+    },
+    "github": {
+      "page": "github.html",
+      "title": "Github",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "GitHub Basics",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "Git"
+            },
+            {
+              "t": "GitHub Desktop"
+            },
+            {
+              "t": "Полезные расширения для VS Code"
+            },
+            {
+              "t": "Отличия GitHub и GitLab"
+            },
+            {
+              "t": "Diff"
+            },
+            {
+              "t": "Установка и настройка Git"
+            },
+            {
+              "t": "Инициализация репозитория"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "GitHub Basics",
+          "name": null,
+          "w": [
+            1
+          ],
+          "items": [
+            {
+              "t": "git status"
+            },
+            {
+              "t": "git add"
+            },
+            {
+              "t": "git commit"
+            },
+            {
+              "t": "Ветки"
+            },
+            {
+              "t": "git checkout"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "GitHub Basics",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "git fetch и git pull"
+            },
+            {
+              "t": "Базовый алгоритм работы"
+            },
+            {
+              "t": ".gitignore"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "GitHub Basics",
+          "name": null,
+          "w": [
+            2
+          ],
+          "items": [
+            {
+              "t": "Просмотр истории и различий",
+              "b": "additional"
+            },
+            {
+              "t": "Слияние и разрешение конфликтов"
+            },
+            {
+              "t": "Удалённый репозиторий"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "GitHub Basics",
+          "name": null,
+          "w": [
+            13
+          ],
+          "items": [
+            {
+              "t": "Клонирование и форки"
+            },
+            {
+              "t": "Pull Request (PR)"
+            },
+            {
+              "t": "Теги и релизы",
+              "b": "additional"
+            },
+            {
+              "t": "Отмена изменений",
+              "b": "additional"
+            },
+            {
+              "t": "Временное сохранение изменений",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": "GitHub Basics",
+          "name": null,
+          "w": [
+            13
+          ],
+          "items": [
+            {
+              "t": "Git Flow: модель ветвления"
+            },
+            {
+              "t": "Trunk-Based Development (TBD)"
+            },
+            {
+              "t": "Git Flow vs TBD"
+            },
+            {
+              "t": "Issues: задачи и баг-репорты"
+            },
+            {
+              "t": "Переписывание истории",
+              "b": "additional"
+            },
+            {
+              "t": "README и LICENSE"
+            },
+            {
+              "t": "Крупные файлы и Git LFS"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "s": "GitHub Advanced",
+          "name": null,
+          "w": [
+            22
+          ],
+          "items": [
+            {
+              "t": "Восстановление потерянных коммитов",
+              "b": "additional"
+            },
+            {
+              "t": "Перенос отдельных коммитов"
+            },
+            {
+              "t": "Squash",
+              "b": "additional"
+            },
+            {
+              "t": "Удаление файлов из истории",
+              "b": "additional"
+            },
+            {
+              "t": "Protected branches"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "s": "GitHub Workflow",
+          "name": null,
+          "w": [
+            21
+          ],
+          "items": [
+            {
+              "t": "GitHub Workflow"
+            },
+            {
+              "t": "Badges"
+            },
+            {
+              "t": "Триггеры"
+            },
+            {
+              "t": "Проверка разных версий Python"
+            },
+            {
+              "t": "Проверка на разных ОС"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "s": "GitHub Workflow",
+          "name": null,
+          "w": [
+            22
+          ],
+          "items": [
+            {
+              "t": "Несколько workflow в проекте",
+              "b": "additional"
+            },
+            {
+              "t": "Контексты и выражения",
+              "b": "additional"
+            },
+            {
+              "t": "Права и безопасность",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "s": "GitHub Workflow",
+          "name": null,
+          "w": [
+            22
+          ],
+          "items": [
+            {
+              "t": "Переиспользуемые workflow",
+              "b": "additional"
+            },
+            {
+              "t": "Выборочные запуски и path-фильтры"
+            },
+            {
+              "t": "Timeouts, retries и продолжение при ошибках"
+            }
+          ]
+        }
+      ]
+    },
+    "linux": {
+      "page": "linux.html",
+      "title": "Linux",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Linux Basics",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "Linux для MLщика"
+            },
+            {
+              "t": "Справка и поиск команд"
+            },
+            {
+              "t": "Warp",
+              "b": "additional"
+            },
+            {
+              "t": "Командная строка Linux"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Linux Basics",
+          "name": null,
+          "w": [
+            3
+          ],
+          "items": [
+            {
+              "t": "Работа с файлами и папками"
+            },
+            {
+              "t": "Пути в Linux"
+            },
+            {
+              "t": "Просмотр файлов"
+            },
+            {
+              "t": "Поиск файлов и текста"
+            },
+            {
+              "t": "Диск: df и du"
+            },
+            {
+              "t": "Архивы и сжатие"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Linux Basics",
+          "name": null,
+          "w": [
+            12
+          ],
+          "items": [
+            {
+              "t": "Мониторинг ресурсов"
+            },
+            {
+              "t": "Процессы: ps, htop, kill"
+            },
+            {
+              "t": "Фоновые процессы"
+            },
+            {
+              "t": "nohup и перенаправление вывода"
+            },
+            {
+              "t": "tmux"
+            },
+            {
+              "t": "Работа с логами"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Linux Basics",
+          "name": null,
+          "w": [
+            13
+          ],
+          "items": [
+            {
+              "t": "Подключение к удалённому серверу (SSH)"
+            },
+            {
+              "t": "Копирование данных: scp и rsync"
+            },
+            {
+              "t": "Права доступа"
+            },
+            {
+              "t": "Символические ссылки"
+            },
+            {
+              "t": "Переменные окружения"
+            },
+            {
+              "t": "Python-окружения на сервере"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Linux Basics",
+          "name": null,
+          "w": [
+            14
+          ],
+          "items": [
+            {
+              "t": "GPU: nvidia-smi"
+            },
+            {
+              "t": "Выбор GPU"
+            },
+            {
+              "t": "OOM: нехватка памяти"
+            },
+            {
+              "t": "Кэши ML-библиотек"
+            },
+            {
+              "t": "Чеклист перед запуском обучения"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-docker": {
+      "page": "mlops-docker.html",
+      "title": "Docker: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Docker",
+          "name": null,
+          "w": [
+            21
+          ],
+          "items": [
+            {
+              "t": "Контейнеризация"
+            },
+            {
+              "t": "Что такое Docker?"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Docker",
+          "name": null,
+          "w": [
+            22
+          ],
+          "items": [
+            {
+              "t": "Dockerfile"
+            },
+            {
+              "t": ".dockerignore"
+            },
+            {
+              "t": "Кэш сборки Docker"
+            },
+            {
+              "t": "Multi-stage build"
+            },
+            {
+              "t": "Размер Docker-образа"
+            },
+            {
+              "t": "CMD и ENTRYPOINT"
+            },
+            {
+              "t": "Переменные окружения"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Docker",
+          "name": null,
+          "w": [
+            22
+          ],
+          "items": [
+            {
+              "t": "Образ"
+            },
+            {
+              "t": "Слои образа"
+            },
+            {
+              "t": "Контейнер"
+            },
+            {
+              "t": "Работа контейнеров"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Docker",
+          "name": null,
+          "w": [
+            22
+          ],
+          "items": [
+            {
+              "t": "Volumes"
+            },
+            {
+              "t": "Docker Networks"
+            },
+            {
+              "t": "Порты и EXPOSE"
+            },
+            {
+              "t": "HEALTHCHECK"
+            },
+            {
+              "t": "Запуск не от root"
+            },
+            {
+              "t": "Секреты в Docker"
+            },
+            {
+              "t": "Логи контейнера"
+            },
+            {
+              "t": "Ограничения ресурсов"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Docker",
+          "name": null,
+          "w": [
+            22
+          ],
+          "items": [
+            {
+              "t": "Docker Hub"
+            },
+            {
+              "t": "Docker Compose"
+            },
+            {
+              "t": "Docker для ML inference"
+            },
+            {
+              "t": "Docker Desktop"
+            }
+          ]
+        }
+      ]
+    },
+    "architecture": {
+      "page": "architecture.html",
+      "title": "MLSD",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "MLSD на собеседовании",
+          "name": null,
+          "w": [],
+          "items": [
+            {
+              "t": "Что такое MLSD"
+            },
+            {
+              "t": "Главная стратегия"
+            },
+            {
+              "t": "Порядок рассказа"
+            },
+            {
+              "t": "Что рисовать"
+            },
+            {
+              "t": "Шаблон ответа"
+            },
+            {
+              "t": "Чек-лист"
+            },
+            {
+              "t": "Шаблон MLSD-плана"
+            },
+            {
+              "t": "Примеры по проектам"
+            }
+          ]
+        }
+      ]
+    },
+    "cv": {
+      "page": "cv.html",
+      "title": "CV",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Classic CV",
+          "name": "Изображение как данные",
+          "w": [
+            43
+          ],
+          "items": [
+            {
+              "t": "Изображение как объект",
+              "b": "required"
+            },
+            {
+              "t": "Число каналов, цветовое пространство RGB",
+              "b": "required"
+            },
+            {
+              "t": "Число бит для кодирования изображения",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Classic CV",
+          "name": "Гистограмма, бинаризация и морфология",
+          "w": [
+            43
+          ],
+          "items": [
+            {
+              "t": "Гистограмма изображения и эквализация",
+              "b": "required"
+            },
+            {
+              "t": "Бинаризация и метод Оцу",
+              "b": "required"
+            },
+            {
+              "t": "Морфологические операции",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Classic CV",
+          "name": "Свёртка и линейные фильтры",
+          "w": [
+            43
+          ],
+          "items": [
+            {
+              "t": "Гауссов фильтр",
+              "b": "required later"
+            },
+            {
+              "t": "Медианный фильтр"
+            },
+            {
+              "t": "Фильтр Собеля",
+              "b": "additional"
+            },
+            {
+              "t": "Фильтр Габора",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Classic CV",
+          "name": "Границы, углы и дескрипторы",
+          "w": [
+            43
+          ],
+          "items": [
+            {
+              "t": "Детектор границ Канни",
+              "b": "required"
+            },
+            {
+              "t": "Детектор углов Харриса",
+              "b": "required"
+            },
+            {
+              "t": "Ключевые точки и дескрипторы: SIFT и ORB",
+              "b": "required"
+            },
+            {
+              "t": "Гистограммы ориентированных градиентов (HOG)",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Classic CV",
+          "name": "Геометрия: преобразования, камера, стерео",
+          "w": [
+            43
+          ],
+          "items": [
+            {
+              "t": "Аффинные преобразования",
+              "b": "required"
+            },
+            {
+              "t": "Гомография и проективные преобразования",
+              "b": "required"
+            },
+            {
+              "t": "Matching, stitching изображений",
+              "b": "required"
+            },
+            {
+              "t": "Модель камеры-обскуры и внутренние параметры",
+              "b": "additional"
+            },
+            {
+              "t": "Калибровка камеры и дисторсия",
+              "b": "additional"
+            },
+            {
+              "t": "Стерео, эпиполярная геометрия и карта глубины",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": "Classic CV",
+          "name": "Частотное представление и сжатие",
+          "w": [
+            43
+          ],
+          "items": [
+            {
+              "t": "Дискретное Преобразование Фурье",
+              "b": "additional"
+            },
+            {
+              "t": "Косинусное преобразование",
+              "b": "additional"
+            }
+          ]
+        }
+      ]
+    },
+    "cv-dl": {
+      "page": "cv-dl.html",
+      "title": "Deep Learning CV",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Ориентир по темам",
+          "name": "Как устроены задачи CV",
+          "w": [
+            44
+          ],
+          "items": [
+            {
+              "t": "Карта задач компьютерного зрения: что определяет постановку",
+              "b": "required"
+            },
+            {
+              "t": "Backbone, neck и head: из чего собран любой пайплайн CV",
+              "b": "required"
+            },
+            {
+              "t": "Данные и разметка: форматы, стоимость, ловушки",
+              "b": "required"
+            },
+            {
+              "t": "Как честно мерить качество в CV",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Ориентир по темам",
+          "name": "Классификация и регрессия: один ответ на картинку",
+          "w": [
+            44
+          ],
+          "items": [
+            {
+              "t": "Классификация изображений: постановка, лоссы, метрики",
+              "b": "required"
+            },
+            {
+              "t": "Тонкая классификация и длинный хвост",
+              "b": "additional"
+            },
+            {
+              "t": "Регрессия по изображению: когда ответ — число",
+              "b": "required"
+            },
+            {
+              "t": "Метрическое обучение: верификация, поиск, re-ID",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Ориентир по темам",
+          "name": "Детекция: переменное число объектов",
+          "w": [
+            44
+          ],
+          "items": [
+            {
+              "t": "Детекция объектов: постановка и формат выхода",
+              "b": "required"
+            },
+            {
+              "t": "IoU и NMS: как сравнивают боксы и убирают дубликаты",
+              "b": "required"
+            },
+            {
+              "t": "mAP: главная метрика детекции",
+              "b": "required"
+            },
+            {
+              "t": "Модели детекции: от R-CNN до DETR",
+              "b": "required research"
+            },
+            {
+              "t": "Лоссы детекции и назначение таргетов",
+              "b": "required"
+            },
+            {
+              "t": "Детекция на практике: мелкие объекты, толпа, домен",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Ориентир по темам",
+          "name": "Сегментация: ответ на каждый пиксель",
+          "w": [
+            44
+          ],
+          "items": [
+            {
+              "t": "Сегментация: семантическая, инстанс и паноптическая",
+              "b": "required"
+            },
+            {
+              "t": "Метрики сегментации: IoU, Dice, mIoU и PQ",
+              "b": "required"
+            },
+            {
+              "t": "Лоссы сегментации: CE, Dice, Tversky и их комбинации",
+              "b": "required"
+            },
+            {
+              "t": "Модели сегментации: от U-Net до SAM",
+              "b": "required research"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": "Ориентир по темам",
+          "name": "Геометрия, счёт и время",
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "Ключевые точки и оценка позы",
+              "b": "required"
+            },
+            {
+              "t": "Оценка глубины по изображению",
+              "b": "required research"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": "Ориентир по темам",
+          "name": "Генеративные задачи",
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "Генеративные задачи: чем они принципиально другие",
+              "b": "required"
+            },
+            {
+              "t": "Диффузионные модели: как из шума получается картинка",
+              "b": "required research"
+            },
+            {
+              "t": "Метрики генеративных моделей: FID, IS, KID, CLIPScore",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "s": "Ориентир по темам",
+          "name": "Без разметки, мультимодальность и вертикали",
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "Интерпретация признаков: Grad-CAM и аналоги",
+              "b": "required"
+            },
+            {
+              "t": "Обучение без разметки: contrastive, distillation, masked modeling",
+              "b": "required research"
+            },
+            {
+              "t": "CLIP и мультимодальность: zero-shot и open-vocabulary",
+              "b": "required research"
+            },
+            {
+              "t": "Детекция аномалий на изображениях",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "s": "Ориентир по темам",
+          "name": "Выбор постановки",
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "Как выбрать постановку задачи CV",
+              "b": "required"
+            }
+          ]
+        }
+      ]
+    },
+    "models-cv": {
+      "page": "models-cv.html",
+      "title": "Архитектуры CV",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "AlexNet (2012)",
+              "b": "research"
+            },
+            {
+              "t": "ZFNet (2013)",
+              "b": "research"
+            },
+            {
+              "t": "VGG (2014)",
+              "b": "research"
+            },
+            {
+              "t": "GoogLeNet / Inception v1 (2014)",
+              "b": "research"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "ResNet (2015)",
+              "b": "required research"
+            },
+            {
+              "t": "Inception v2-v4 (2015–2016)",
+              "b": "research"
+            },
+            {
+              "t": "ResNeXt (2016)",
+              "b": "research"
+            },
+            {
+              "t": "DenseNet (2016)",
+              "b": "required research"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": null,
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "SENet (2017)",
+              "b": "research"
+            },
+            {
+              "t": "MobileNet (2017)",
+              "b": "required research"
+            },
+            {
+              "t": "ShuffleNet (2017)",
+              "b": "research"
+            },
+            {
+              "t": "NASNet (2018)",
+              "b": "research"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": null,
+          "name": null,
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "MobileNetV2 (2019)",
+              "b": "required research"
+            },
+            {
+              "t": "EfficientNet (2019)",
+              "b": "required research"
+            },
+            {
+              "t": "EfficientNetV2 (2021)",
+              "b": "required research"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": null,
+          "name": null,
+          "w": [
+            45
+          ],
+          "items": [
+            {
+              "t": "CBAM (2018)",
+              "b": "required research"
+            },
+            {
+              "t": "ViT (2020)",
+              "b": "required research"
+            },
+            {
+              "t": "DeiT (2021)",
+              "b": "required research"
+            },
+            {
+              "t": "Swin Transformer (2021)",
+              "b": "required research"
+            },
+            {
+              "t": "ConvNeXt (2022)",
+              "b": "required research"
+            }
+          ]
+        }
+      ]
+    },
+    "recsys": {
+      "page": "recsys.html",
+      "title": "Recommender Systems",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            37
+          ],
+          "items": [
+            {
+              "t": "Что такое рекомендательные системы?",
+              "b": "required"
+            },
+            {
+              "t": "Как работают matrix factorization и latent factor models?",
+              "b": "required"
+            },
+            {
+              "t": "Что такое retrieval в рекомендательных системах?",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            37
+          ],
+          "items": [
+            {
+              "t": "Как устроен ranking в рекомендательных системах?",
+              "b": "additional research"
+            },
+            {
+              "t": "Что такое sequential recommendation?",
+              "b": "additional"
+            },
+            {
+              "t": "Какие loss functions используют в RecSys?",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": null,
+          "w": [
+            37
+          ],
+          "items": [
+            {
+              "t": "Какие метрики используют для рекомендаций?",
+              "b": "required"
+            },
+            {
+              "t": "Как устроено representation learning в RecSys?",
+              "b": "required"
+            },
+            {
+              "t": "Как графовые модели применяются в рекомендациях?",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": null,
+          "name": null,
+          "w": [
+            37
+          ],
+          "items": [
+            {
+              "t": "Зачем нужны exploration и reinforcement learning в RecSys?",
+              "b": "additional"
+            },
+            {
+              "t": "Какие bias, fairness и robustness проблемы есть в RecSys?",
+              "b": "required"
+            },
+            {
+              "t": "Как решать cold start и строить hybrid recommendation?",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "s": null,
+          "name": null,
+          "w": [
+            37
+          ],
+          "items": [
+            {
+              "t": "Как проектировать индустриальную рекомендательную систему?",
+              "b": "required"
+            },
+            {
+              "t": "Как оценивать RecSys online и offline?",
+              "b": "required"
+            },
+            {
+              "t": "Как связаны search и recommendation?",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "s": null,
+          "name": null,
+          "w": [
+            37
+          ],
+          "items": [
+            {
+              "t": "Как LLM и foundation models применяются в RecSys?",
+              "b": "research"
+            },
+            {
+              "t": "Какие paper'ы важны для RecSys?",
+              "b": "research"
+            }
+          ]
+        }
+      ]
+    },
+    "timeseries": {
+      "page": "timeseries.html",
+      "title": "Time Series",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": null,
+          "w": [
+            38
+          ],
+          "items": [
+            {
+              "t": "Что такое временной ряд?",
+              "b": "required"
+            },
+            {
+              "t": "Какие свойства есть у временного ряда?",
+              "b": "required"
+            },
+            {
+              "t": "Как валидировать модели на временных рядах?",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": null,
+          "w": [
+            38
+          ],
+          "items": [
+            {
+              "t": "Что такое стационарный временной ряд?",
+              "b": "required"
+            },
+            {
+              "t": "Как стабилизировать дисперсию временного ряда?",
+              "b": "required"
+            },
+            {
+              "t": "Что такое дифференцирование временного ряда?",
+              "b": "required"
+            },
+            {
+              "t": "Что показывают ACF и PACF?",
+              "b": "required"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": null,
+          "w": [
+            38
+          ],
+          "items": [
+            {
+              "t": "Что такое экспоненциальное сглаживание?",
+              "b": "required"
+            },
+            {
+              "t": "Что такое модели AR, MA и ARMA?",
+              "b": "required"
+            },
+            {
+              "t": "Чем отличаются ARIMA, SARIMA и SARIMAX?",
+              "b": "required"
+            },
+            {
+              "t": "Когда использовать Prophet и LSTM для временных рядов?",
+              "b": "additional"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-k8s": {
+      "page": "mlops-k8s.html",
+      "title": "Kubernetes: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Kubernetes",
+          "name": null,
+          "w": [
+            39
+          ],
+          "items": [
+            {
+              "t": "Kubernetes (k8s)"
+            },
+            {
+              "t": "Строение кластера"
+            },
+            {
+              "t": "Pod"
+            },
+            {
+              "t": "Service"
+            },
+            {
+              "t": "Манифесты и декларативная настройка"
+            },
+            {
+              "t": "Docker Compose vs Kubernetes"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-kafka": {
+      "page": "mlops-kafka.html",
+      "title": "Kafka: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Kafka",
+          "name": null,
+          "w": [
+            39
+          ],
+          "items": [
+            {
+              "t": "Что такое Apache Kafka?"
+            },
+            {
+              "t": "Основные понятия Kafka"
+            },
+            {
+              "t": "Гарантии доставки и retention"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Kafka",
+          "name": null,
+          "w": [
+            39
+          ],
+          "items": [
+            {
+              "t": "Паттерны использования Kafka в ML"
+            },
+            {
+              "t": "Kafka в Python: producer и consumer"
+            },
+            {
+              "t": "Schema Registry и контракты данных"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Kafka",
+          "name": null,
+          "w": [
+            39
+          ],
+          "items": [
+            {
+              "t": "Kafka Connect: загрузка и выгрузка данных",
+              "b": "additional"
+            },
+            {
+              "t": "Kafka Streams и ksqlDB",
+              "b": "additional"
+            },
+            {
+              "t": "Мониторинг Kafka: что важно ML Engineer",
+              "b": "additional"
+            },
+            {
+              "t": "Альтернативы Kafka",
+              "b": "additional"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-cloud": {
+      "page": "mlops-cloud.html",
+      "title": "Cloud: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Cloud",
+          "name": null,
+          "w": [
+            40
+          ],
+          "items": [
+            {
+              "t": "Что такое Cloud Computing?"
+            },
+            {
+              "t": "Какие бывают модели облачных сервисов?"
+            },
+            {
+              "t": "Какие бывают облачные провайдеры?"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Cloud",
+          "name": null,
+          "w": [
+            40
+          ],
+          "items": [
+            {
+              "t": "Какие облачные сервисы нужны ML Engineer?"
+            },
+            {
+              "t": "Как думать о стоимости и безопасности облака?"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Cloud",
+          "name": null,
+          "w": [
+            40
+          ],
+          "items": [
+            {
+              "t": "Что важно знать про AWS?"
+            },
+            {
+              "t": "Что важно знать про Google Cloud Platform?"
+            },
+            {
+              "t": "Что важно знать про Microsoft Azure?"
+            },
+            {
+              "t": "Что важно знать про Yandex Cloud?",
+              "b": "additional"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": "Cloud",
+          "name": null,
+          "w": [
+            40
+          ],
+          "items": [
+            {
+              "t": "Что такое OpenStack?",
+              "b": "additional"
+            },
+            {
+              "t": "Что такое Proxmox?",
+              "b": "additional"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-db": {
+      "page": "mlops-db.html",
+      "title": "Databases: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Databases",
+          "name": null,
+          "w": [
+            40
+          ],
+          "items": [
+            {
+              "t": "Что такое база данных?"
+            },
+            {
+              "t": "Какие бывают виды СУБД?"
+            },
+            {
+              "t": "Что такое SQL?"
+            },
+            {
+              "t": "Что такое NoSQL?"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Databases",
+          "name": null,
+          "w": [
+            40
+          ],
+          "items": [
+            {
+              "t": "Что такое транзакции и ACID?"
+            },
+            {
+              "t": "Что такое CAP-теорема?",
+              "b": "additional"
+            },
+            {
+              "t": "Что такое индексы в БД?"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Databases",
+          "name": null,
+          "w": [
+            40
+          ],
+          "items": [
+            {
+              "t": "Что такое sharding и replication?",
+              "b": "additional"
+            },
+            {
+              "t": "Что мониторить в базе данных?",
+              "b": "additional"
+            },
+            {
+              "t": "Как думать о безопасности БД?"
+            },
+            {
+              "t": "Дополнительные материалы по БД"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-mlflow": {
+      "page": "mlops-mlflow.html",
+      "title": "MLflow: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "MLflow",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "Что такое MLflow?"
+            },
+            {
+              "t": "MLflow Tracking Server"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "MLflow",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "Логирование экспериментов в MLflow"
+            },
+            {
+              "t": "MLflow Model Registry"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-tensorboard": {
+      "page": "mlops-tensorboard.html",
+      "title": "TensorBoard: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "TensorBoard",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "Что такое TensorBoard?"
+            },
+            {
+              "t": "Scalars: loss, accuracy и learning rate"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "TensorBoard",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "Images, histograms и embeddings"
+            },
+            {
+              "t": "TensorBoard Profiler"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-wandb": {
+      "page": "mlops-wandb.html",
+      "title": "Weights & Biases: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Weights & Biases",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "Что такое Weights & Biases?"
+            },
+            {
+              "t": "Логирование runs в wandb"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Weights & Biases",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "W&B Artifacts и lineage"
+            },
+            {
+              "t": "Sweeps и Reports в W&B"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-clearml": {
+      "page": "mlops-clearml.html",
+      "title": "ClearML: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "ClearML",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "Что такое ClearML?"
+            },
+            {
+              "t": "Task и логирование в ClearML"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "ClearML",
+          "name": null,
+          "w": [
+            41
+          ],
+          "items": [
+            {
+              "t": "ClearML Agent и очереди задач"
+            },
+            {
+              "t": "Datasets, Models и Pipelines в ClearML"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-prometheus": {
+      "page": "mlops-prometheus.html",
+      "title": "Prometheus: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Prometheus",
+          "name": null,
+          "w": [
+            42
+          ],
+          "items": [
+            {
+              "t": "Что такое Prometheus?"
+            },
+            {
+              "t": "Типы метрик в Prometheus"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Prometheus",
+          "name": null,
+          "w": [
+            42
+          ],
+          "items": [
+            {
+              "t": "Инструментирование Python-сервисов"
+            },
+            {
+              "t": "PromQL: запросы к метрикам"
+            },
+            {
+              "t": "Алертинг: Alerting Rules и AlertManager"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Prometheus",
+          "name": null,
+          "w": [
+            42
+          ],
+          "items": [
+            {
+              "t": "Экспортёры: инфраструктурные метрики",
+              "b": "additional"
+            }
+          ]
+        }
+      ]
+    },
+    "mlops-grafana": {
+      "page": "mlops-grafana.html",
+      "title": "Grafana: темы",
+      "blocks": [
+        {
+          "n": 1,
+          "s": "Grafana",
+          "name": null,
+          "w": [
+            42
+          ],
+          "items": [
+            {
+              "t": "Что такое Grafana?"
+            },
+            {
+              "t": "Дашборды: структура и лучшие практики"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": "Grafana",
+          "name": null,
+          "w": [
+            42
+          ],
+          "items": [
+            {
+              "t": "Построение панелей: PromQL в Grafana"
+            },
+            {
+              "t": "Template Variables: многоуровневые дашборды"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": "Grafana",
+          "name": null,
+          "w": [
+            42
+          ],
+          "items": [
+            {
+              "t": "Алертинг в Grafana",
+              "b": "additional"
+            },
+            {
+              "t": "Loki: логи в Grafana",
+              "b": "additional"
+            }
+          ]
+        }
+      ]
+    },
+    "career": {
+      "page": null,
+      "title": "Резюме, легенда и выход на рынок",
+      "blocks": [
+        {
+          "n": 1,
+          "s": null,
+          "name": "Резюме и легенда",
+          "w": [
+            30
+          ],
+          "items": [
+            {
+              "t": "Резюме"
+            },
+            {
+              "t": "Легенда"
+            },
+            {
+              "t": "MLSD"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "s": null,
+          "name": "MLSD по проектам из резюме",
+          "w": [
+            31
+          ],
+          "items": [
+            {
+              "t": "MLSD"
+            },
+            {
+              "t": "MLSD-записи"
+            },
+            {
+              "t": "Резюме"
+            },
+            {
+              "t": "Легенда"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "s": null,
+          "name": "Мок-собес: резюме, легенда и MLSD",
+          "w": [
+            32
+          ],
+          "items": [
+            {
+              "t": "Резюме"
+            },
+            {
+              "t": "Легенда"
+            },
+            {
+              "t": "MLSD"
+            },
+            {
+              "t": "Записи собеседований"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "s": null,
+          "name": "Выход на рынок: профили, площадки и подготовка к собеседованиям",
+          "w": [
+            36
+          ],
+          "items": [
+            {
+              "t": "HH"
+            },
+            {
+              "t": "LinkedIn"
+            },
+            {
+              "t": "Площадки поиска работы"
+            },
+            {
+              "t": "Банк вопросов"
+            },
+            {
+              "t": "Вопросы по компаниям"
+            },
+            {
+              "t": "Записи собеседований"
+            },
+            {
+              "t": "Алгозадачи"
+            },
+            {
+              "t": "HR-вопросы"
+            },
+            {
+              "t": "Вопросы интервьюеру"
+            },
+            {
+              "t": "Роли в Data и ML"
+            },
+            {
+              "t": "Управление проектами"
+            },
+            {
+              "t": "Словарь IT-сленга"
+            },
+            {
+              "t": "ИП и самозанятость"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "required": 36,
+  "total": 45,
+  "hours": 646
+}
